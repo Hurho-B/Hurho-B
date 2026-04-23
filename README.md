@@ -1,16 +1,22 @@
-## Hi there 👋
+# Howdy there! 👋
+### Tools & Languages
+- Unity, Unreal, Git, Linux
+- C#, Python, Java, C++
 
-<!--
-**Hurho-B/Hurho-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+### Fun Facts
+🛠️ I love tinkering with things by breaking them \
+🤡 I'll make myself look silly just to get a smile\
+☕ Always a sucker for good quality coffee\
+🎮 And I'm always looking for a good game to play, SOMA being my favorite ❤️
 
-Here are some ideas to get you started:
+#
+### Python Projects
+- [Asteroids](https://github.com/Hurho-B/asteroids)
+- [BookBot](https://github.com/Hurho-B/bookbot) 
+- [Webflyx](https://github.com/Hurho-B/webflyx)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Unity Projects
+- [PCG Showcase](https://github.com/Hurho-B/pcg-showcase)
+- [Plague Rush](https://github.com/Hurho-B/plague-rush)
+- [BearWithMe](https://github.com/BenJustice1213/BearWithMe)
