@@ -16,7 +16,7 @@
 - [BookBot](https://github.com/Hurho-B/bookbot) 
 - [Webflyx](https://github.com/Hurho-B/webflyx)
 
-### Unity Projects
-- [PCG Showcase](https://github.com/Hurho-B/pcg-showcase)
-- [Plague Rush](https://github.com/Hurho-B/plague-rush)
-- [BearWithMe](https://github.com/BenJustice1213/BearWithMe)
+### School Projects
+- [What You Don't See](https://github.com/7char7/Maroon-Moon-Studio) (Unreal)
+- [Plague Rush](https://github.com/Hurho-B/plague-rush) (Unity)
+- [BearWithMe](https://github.com/BenJustice1213/BearWithMe) (Unity)
