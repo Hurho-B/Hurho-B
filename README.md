@@ -17,6 +17,6 @@
 - [Webflyx](https://github.com/Hurho-B/webflyx)
 
 ### School Projects
-- [What You Don't See](https://github.com/7char7/Maroon-Moon-Studio) (Unreal)
+- [What You Don't See](https://github.com/Hurho-B/Maroon-Moon-Studio) (Unreal)
 - [Plague Rush](https://github.com/Hurho-B/plague-rush) (Unity)
 - [BearWithMe](https://github.com/BenJustice1213/BearWithMe) (Unity)
