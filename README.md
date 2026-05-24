@@ -5,10 +5,9 @@
 
 #
 ### Fun Facts
-🛠️ I love tinkering with things by breaking them \
-🤡 I'll make myself look silly just to get a smile\
-☕ Always a sucker for good quality coffee\
-🎮 And I'm always looking for a good game to play, SOMA being my favorite ❤️
+- I love tinkering with things by breaking them\
+- A sucker for good quality coffee\
+- Always looking for a good game to play, SOMA being my favorite ❤️
 
 #
 ### Python Projects
