@@ -5,8 +5,8 @@
 
 #
 ### Fun Facts
-- I love tinkering with things by breaking them\
-- A sucker for good quality coffee\
+- I love tinkering with things by breaking them  
+- A sucker for good quality coffee  
 - Always looking for a good game to play, SOMA being my favorite ❤️
 
 #
